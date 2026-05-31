@@ -3,8 +3,10 @@
 </a>
 <h3 align="center">Hello there, I'm <a href="">Roger</a> - Web Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
+
 <p align="center">
-  
+  <a href="https://github.com/Esteiben"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0009-4483-3649"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 </p>
 
 ## 📖 About me
