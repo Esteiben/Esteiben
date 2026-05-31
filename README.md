@@ -1,7 +1,7 @@
 <a>
   <img src="https://pixel-profile.vercel.app/api/github-stats?username=Esteiben&theme=road_trip&pixelate_avatar=false" /img>
 </a>
-<h3 align="center">Hello there, I'm <a href="">Roger</a> - Web Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hello there, I'm <a href="">Roger</a> | Software Engineering Student & Full Stack Developer :wave:</h3>
 
 
 <p align="center">
@@ -13,15 +13,81 @@
   <a href="https://github.com/Esteiben"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-## 📖 About me
+## :book: About Me
+
+Hi, I'm Roger, a Software Engineering student at the Technical State University of Quevedo (UTEQ), currently in my sixth semester and actively building experience as a developer while pursuing freelance opportunities.
+
+:computer: My main interests are Full Stack Web Development and Mobile Development. I enjoy working across the entire software lifecycle, from designing user interfaces to building backend services and managing databases.
+
+### :rocket: Currently
+
+* Working on **SkyPulseAnalytics**, an academic software project.
+* Learning modern web frameworks such as **Next.js**, **Vue**, and **Django**.
+* Expanding my mobile development skills with **Kotlin**.
+* Exploring high-performance analytical databases such as **Apache Pinot**.
+
+### 🛠️ Technologies
+
+**Languages**
+
+* Java
+* Python
+* JavaScript
+* TypeScript
+* C#
+* Kotlin
+
+**Frameworks**
+
+* Angular
+* React
+* Spring Boot
+
+**Databases**
+
+* PostgreSQL
+* MySQL
+* Microsoft SQL Server
+* Apache Pinot
+
+### 🔍 Beyond Programming
+
+Outside software development, I enjoy learning how electronic devices and computer hardware work, repairing and upgrading computers, exploring operating systems, and playing video games.
+
+### 🎯 Goals
+
+My current goal is to gain real-world development experience through freelance work and collaborative projects while continuing my Software Engineering studies. I am focused on building a strong technical foundation that will support my long-term professional career.
+
+### 🌎 Languages
+
+* Spanish (Native)
+* English (Advanced)
+
+### 🤝 Let's Connect
+
+* LinkedIn: [YOUR_LINKEDIN]
+* Portfolio: [YOUR_PORTFOLIO]
+* Email: [YOUR_EMAIL]
+
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2 align="center" style="margin: 5px 10px;">Github stats</h2> 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Esteiben&theme=onedark-duo)](https://git.io/streak-stats)
 </div>
 
+<h2 align="center">Contribution Snake</h2>
+
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Esteiben/Esteiben/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img
+    src="https://raw.githubusercontent.com/Esteiben/Esteiben/output/snake.svg"
+    alt="Snake eating contributions"
+  />
 </p>
+
+## 🚀 Open To
+
+- Freelance opportunities
+- Remote internships
+- Junior Software Developer roles
+- Open Source contributions
